@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable no-undef */
-import { getElementError } from '@testing-library/react';
 import './App.css';
 
 
